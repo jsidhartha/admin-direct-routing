@@ -6,6 +6,11 @@
     padding: 5px 25px;
 }
 
+.padding-x{
+    padding: 0px 25px;
+    
+}
+
 .container-x {
     width: 80% !important;
     margin: 0 auto;
